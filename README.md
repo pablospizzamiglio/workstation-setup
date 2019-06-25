@@ -5,7 +5,7 @@ This project is intended to facilitate the task of setting up a fresh install.
 ```bash
 ansible-playbook -K setup.yml --extra-vars "@extra_vars.json"
 ```
-Use the `-K` modifier to Ansible can ask for your `sudo` password if needed.
+Use the `-K` modifier so Ansible can ask for your `sudo` password if needed.
 
 ## Project Structure
 ```
@@ -87,22 +87,21 @@ This is the main playbook.
 The roles under this directory try to organize tasks and provide flexibility.
 
 ### Common
-This role installs packages needed by most home users (strongly opinionated).
+Installs packages needed by most home users (strongly opinionated).
 Like `unrar` or `gstreamer` plugins. 
 
 ### Dotfiles
 Place any dotfile playbook under this role.
 
 ### Extras
-This role installs packages for specific tasks.
-Like `spotify` or `steam`.
+Installs packages for specific tasks. Like `spotify` or `steam`.
 
 ### GNOME
-This role configures GNOME settings through the `gsettings` CLI tool.
+Configures GNOME settings through the `gsettings` CLI tool. It can be switched in favor of another role to configure another desktop environment.
 Keys that need to be adjusted can be placed under the `gsettings` array in the `extra_vars.json` file.
 
 ### NVIDIA
-This role expects an NVIDIA card installed in the system but it can be switched to accomodate one from another vendor.
+Expects an NVIDIA card installed in the system but it can be switched in favor of another role to accomodate a graphics card from another vendor.
 
 ## Vars
 ```
@@ -129,7 +128,7 @@ This role expects an NVIDIA card installed in the system but it can be switched 
     ]
 }
 ```
-This JSON file enabled the playbook to be adjusted to other local systems.
+This JSON file enables the playbook to be configured for another local systems.
 Remember to modify `local_user_*` and `gsettings` to reflect you preferences before running this playbook.
 
 ## License
