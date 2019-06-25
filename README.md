@@ -1,7 +1,7 @@
 # Workstation Setup
 This project is intended to facilitate the task of setting up a fresh install.
 
-### Usage
+## Usage
 ```bash
 ansible-playbook -K setup.yml --extra-vars "@extra_vars.json"
 ```
@@ -58,7 +58,7 @@ Use the `-K` modifier to Ansible can ask for your `sudo` password if needed.
 └── setup.yml
 ```
 
-#### Files
+## Files
 ```
 .
 └── files
@@ -68,14 +68,14 @@ This sub-directory is present in tasks that need to make use of specific reposit
 
 The included repositories cover the author's basics needs. Feel free to adjust them as you like.
 
-### Tasks
+## Tasks
 ```
 .
 └── setup.yml
 ```
 This is the main playbook.
 
-### Roles
+## Roles
 ```
 .
 ├── common
@@ -86,25 +86,25 @@ This is the main playbook.
 ```
 The roles under this directory try to organize tasks and provide flexibility.
 
-#### Common
+### Common
 This role installs packages needed by most home users (strongly opinionated).
 Like `unrar` or `gstreamer` plugins. 
 
-#### Dotfiles
+### Dotfiles
 Place any dotfile playbook under this role.
 
-#### Extras
+### Extras
 This role installs packages for specific tasks.
 Like `spotify` or `steam`.
 
-#### GNOME
+### GNOME
 This role configures GNOME settings through the `gsettings` CLI tool.
 Keys that need to be adjusted can be placed under the `gsettings` array in the `extra_vars.json` file.
 
-#### NVIDIA
+### NVIDIA
 This role expects an NVIDIA card installed in the system but it can be switched to accomodate one from another vendor.
 
-#### Vars
+## Vars
 ```
 {
     "local_user": "username",
@@ -131,3 +131,6 @@ This role expects an NVIDIA card installed in the system but it can be switched 
 ```
 This JSON file enabled the playbook to be adjusted to other local systems.
 Remember to modify `local_user_*` and `gsettings` to reflect you preferences before running this playbook.
+
+## License
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
