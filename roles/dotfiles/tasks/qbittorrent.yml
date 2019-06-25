@@ -1,0 +1,33 @@
+---
+
+- name: Ensure ~/.config/qBittorrent exists
+  file: path=/home/{{ local_user }}/.config/qBittorrent state=directory
+  when: local_user is defined and local_user != ""
+
+- name: Ensure ~/.config/qBittorrent/rss exists
+  file: path=/home/{{ local_user }}/.config/qBittorrent/rss state=directory
+  when: local_user is defined and local_user != ""
+
+- name: Configure qBittorrent settings
+  template:
+    src: ../templates/qbittorrent.conf.j2
+    dest: "/home/{{ local_user }}/.config/qBittorrent/qBittorrent.conf"
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""
+
+- name: Configure qBittorrent rss feeds
+  copy:
+    src: ../files/qbittorrent/feeds.json
+    dest: "/home/{{ local_user }}/.config/qBittorrent/rss/feeds.json"
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""
+
+- name: Configure qBittorrent rss download rules
+  copy:
+    src: ../files/qbittorrent/download_rules.json
+    dest: "/home/{{ local_user }}/.config/qBittorrent/rss/download_rules.json"
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""

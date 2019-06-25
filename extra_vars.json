@@ -1,0 +1,22 @@
+{
+    "local_user": "johndoe",
+    "local_user_name": "John Doe",
+    "local_user_email": "johndoe@test.com",
+    "gsettings": [
+        {
+            "path": "org.gnome.settings-daemon.plugins.color",
+            "key": "night-light-enabled",
+            "value": "true"
+        },
+        {
+            "path": "org.gnome.nautilus.preferences",
+            "key": "default-folder-viewer",
+            "value": "list-view"
+        },
+        {
+            "path": "org.gnome.GWeather",
+            "key": "temperature-unit",
+            "value": "centigrade"
+        }
+    ]
+}

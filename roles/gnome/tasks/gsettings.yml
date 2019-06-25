@@ -1,0 +1,10 @@
+---
+
+- name: Get {{ path }} {{ key }}
+  command: gsettings get {{ path }} {{ key }}
+  register: key_current_value
+  changed_when: no
+
+- name: Set {{ path }} {{ key }} {{ value }}
+  command: gsettings set {{ path }} {{ key }} {{ value }}
+  when: key_current_value.stdout != value

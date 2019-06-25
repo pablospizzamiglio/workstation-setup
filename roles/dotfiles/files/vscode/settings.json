@@ -1,0 +1,51 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "breadcrumbs.enabled": false,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Droid Sans Mono', monospace",
+    "editor.fontLigatures": true,
+    //"editor.fontSize": 15,
+    "editor.formatOnSave": true,
+    "editor.lineHeight": 28,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.scrollBeyondLastLine": false,
+    "emmet.includeLanguages": {
+        "aspnetcorerazor": "html",
+        "visualforce": "html",
+        "vue-html": "html"
+    },
+    "eslint.alwaysShowStatus": true,
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "**/*.yml": "ansible"
+    },
+    "files.exclude": {
+        // "**/*-meta.xml": false
+    },
+    // "salesforcedx-vscode-core.telemetry.enabled": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "window.restoreWindows": "all",
+    "window.zoomLevel": 0,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "workbench.startupEditor": "none",
+    "[ansible]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 4
+    },
+    "[javascript]": {
+        "editor.tabSize": 4
+    },
+    "[json]": {
+        "editor.tabSize": 4
+    },
+    "[jsonc]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}

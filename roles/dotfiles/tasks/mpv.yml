@@ -1,0 +1,13 @@
+---
+
+- name: Ensure ~/.config/mpv exists
+  file: path=/home/{{ local_user }}/.config/mpv state=directory
+  when: local_user is defined and local_user != ""
+
+- name: Configure mpv
+  copy:
+    src: ../files/mpv/mpv.conf
+    dest: "/home/{{ local_user }}/.config/mpv/mpv.conf"
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""

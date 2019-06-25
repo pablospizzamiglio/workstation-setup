@@ -1,0 +1,543 @@
+{
+    "12 Monkeys": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "09 Jul 2018 21:05:35 -0300",
+        "mustContain": "12 Monkeys",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Adventure Time": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "24 Jul 2018 00:54:52 -0300",
+        "mustContain": "Adventure Time",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "American Horror Story": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "15 Nov 2018 05:56:37 +0000",
+        "mustContain": "American Horror Story",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Bosch": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "19 Apr 2019 04:01:09 +0000",
+        "mustContain": "Bosch",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Brooklyn Nine Nine": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "26 Apr 2019 01:40:32 +0000",
+        "mustContain": "Brooklyn Nine Nine",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Castle Rock": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "17 Sep 2018 11:48:05 -0300",
+        "mustContain": "Castle Rock",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Colony": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "26 Jul 2018 21:57:22 -0300",
+        "mustContain": "Colony",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Game of Thrones": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "29 Apr 2019 01:10:36 +0000",
+        "mustContain": "Game of Thrones",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Gundam Thunderbolt": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://horriblesubs.info/rss.php?res=720",
+            "http://www.horriblesubs.info/rss.php?res=720"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "Gundam Thunderbolt",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Homeland": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "03 May 2018 21:10:47 -0300",
+        "mustContain": "Homeland",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Into the Badlands": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "30 Apr 2019 03:01:05 +0000",
+        "mustContain": "Into the Badlands",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Killjoys": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "22 Sep 2018 10:00:38 +0000",
+        "mustContain": "Killjoys",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Legion": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "14 Jun 2018 20:36:47 -0300",
+        "mustContain": "Legion",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Mr Mercedes": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "27 Nov 2018 16:26:41 +0000",
+        "mustContain": "Mr Mercedes",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Mr. Robot": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "Mr. Robot",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Preacher": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "28 Aug 2018 23:28:50 -0300",
+        "mustContain": "Preacher",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Ray Donovan": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "13 Jan 2019 06:25:15 +0000",
+        "mustContain": "Ray Donovan",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Rick and Morty": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "Rick and Morty",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Supernatural": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "26 Apr 2019 12:30:54 +0000",
+        "mustContain": "Supernatural",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The 100": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "08 Aug 2018 22:08:27 -0300",
+        "mustContain": "The 100",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Big Bang Theory": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "26 Apr 2019 03:10:33 +0000",
+        "mustContain": "The Big Bang Theory",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Blacklist": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "27 Apr 2019 08:10:31 +0000",
+        "mustContain": "The Blacklist",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Expanse": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "29 Jun 2018 22:46:51 -0300",
+        "mustContain": "The Expanse",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Man in the High Castle": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "05 Oct 2018 02:25:18 +0000",
+        "mustContain": "The Man In the High Castle",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Tick": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "The Tick",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Walking Dead": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "05 Feb 2019 05:08:54 +0000",
+        "mustContain": "The Walking Dead",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The X Files": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "22 Mar 2018 01:02:35 -0300",
+        "mustContain": "The X Files",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "True Detective": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "11 Feb 2019 04:40:25 +0000",
+        "mustContain": "True Detective",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Vikings": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "31 Jan 2019 03:25:21 +0000",
+        "mustContain": "Vikings",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Westworld": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "25 Jun 2018 13:02:59 -0300",
+        "mustContain": "Westworld",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    }
+}

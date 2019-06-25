@@ -1,0 +1,8 @@
+---
+
+- name: Install NVIDIA drivers
+  become: yes
+  package: name={{ item }} state=present
+  with_items:
+    - nvidia-driver
+    - nvidia-settings

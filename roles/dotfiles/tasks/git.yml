@@ -1,0 +1,11 @@
+---
+
+- name: Configure Git profile
+  template:
+    src: ../templates/gitconfig.j2
+    dest: "/home/{{ local_user }}/.gitconfig"
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""
+    and local_user_name is defined and local_user_name != ""
+    and local_user_email is defined and local_user_email != ""

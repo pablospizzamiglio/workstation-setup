@@ -1,0 +1,11 @@
+---
+
+- name: Configure workstation
+  hosts: localhost
+  connection: local
+  roles:
+    - common
+    - extras
+    - nvidia
+    - gnome
+    - dotfiles

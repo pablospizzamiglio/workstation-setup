@@ -1,0 +1,12 @@
+---
+
+- name: Install extras
+  become: yes
+  package: name={{ item }} state=present
+  with_items:
+    - code
+    - dconf-editor
+    - discord
+    - fira-code-fonts
+    - spotify-client
+    - steam

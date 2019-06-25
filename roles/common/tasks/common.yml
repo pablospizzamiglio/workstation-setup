@@ -1,0 +1,22 @@
+---
+
+- name: Install updates
+  become: yes
+  dnf:
+    name: "*"
+    state: latest
+
+- name: Install common packages
+  become: yes
+  package: name={{ item }} state=present
+  with_items:
+    - chromium
+    - chromium-libs-media-freeworld
+    - flash-plugin
+    - gnome-tweaks
+    - gstreamer1-libav
+    - gstreamer1-plugins-ugly
+    - mpv
+    - python3-psutil
+    - qbittorrent
+    - unrar

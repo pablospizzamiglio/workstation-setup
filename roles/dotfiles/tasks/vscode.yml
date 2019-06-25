@@ -1,0 +1,12 @@
+---
+
+- name: Ensure ~/.config/Code exists
+  file: path=/home/{{ local_user }}/.config/Code state=directory
+
+- name: Configure Visual Studio Code settings
+  copy:
+    src: ../files/vscode/settings.json
+    dest: /home/{{ local_user }}/.config/Code/User/settings.json
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""
