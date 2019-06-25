@@ -107,7 +107,7 @@ This role expects an NVIDIA card installed in the system but it can be switched 
 ## Vars
 ```
 {
-    "local_user": "username",
+    "local_user": "johndoe",
     "local_user_name": "John Doe",
     "local_user_email": "johndoe@mail.com",
     "gsettings": [
@@ -134,3 +134,5 @@ Remember to modify `local_user_*` and `gsettings` to reflect you preferences bef
 
 ## License
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+Copyright (c) 2019-present, Pablo Spizzamiglio
