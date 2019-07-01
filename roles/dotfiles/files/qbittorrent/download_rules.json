@@ -11,8 +11,7 @@
         "lastMatch": "09 Jul 2018 21:05:35 -0300",
         "mustContain": "12 Monkeys",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -29,8 +28,7 @@
         "lastMatch": "24 Jul 2018 00:54:52 -0300",
         "mustContain": "Adventure Time",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -47,8 +45,7 @@
         "lastMatch": "15 Nov 2018 05:56:37 +0000",
         "mustContain": "American Horror Story",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -59,14 +56,13 @@
             "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
         ],
         "assignedCategory": "",
-        "enabled": true,
+        "enabled": false,
         "episodeFilter": "",
         "ignoreDays": 0,
         "lastMatch": "19 Apr 2019 04:01:09 +0000",
         "mustContain": "Bosch",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -80,11 +76,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "26 Apr 2019 01:40:32 +0000",
+        "lastMatch": "18 May 2019 13:10:34 +0000",
         "mustContain": "Brooklyn Nine Nine",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -101,8 +96,24 @@
         "lastMatch": "17 Sep 2018 11:48:05 -0300",
         "mustContain": "Castle Rock",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
+        "previouslyMatchedEpisodes": [],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "Chernobyl": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
         ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "04 Jun 2019 13:00:59 +0000",
+        "mustContain": "Chernobyl",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -119,8 +130,7 @@
         "lastMatch": "26 Jul 2018 21:57:22 -0300",
         "mustContain": "Colony",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -134,11 +144,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "29 Apr 2019 01:10:36 +0000",
+        "lastMatch": "27 May 2019 01:50:37 +0000",
         "mustContain": "Game of Thrones",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -147,7 +156,8 @@
         "addPaused": null,
         "affectedFeeds": [
             "http://horriblesubs.info/rss.php?res=720",
-            "http://www.horriblesubs.info/rss.php?res=720"
+            "http://www.horriblesubs.info/rss.php?res=720",
+            "http://www.horriblesubs.info/rss.php?res=1080"
         ],
         "assignedCategory": "",
         "enabled": true,
@@ -156,8 +166,7 @@
         "lastMatch": "",
         "mustContain": "Gundam Thunderbolt",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -174,8 +183,7 @@
         "lastMatch": "03 May 2018 21:10:47 -0300",
         "mustContain": "Homeland",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -189,11 +197,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "30 Apr 2019 03:01:05 +0000",
+        "lastMatch": "08 May 2019 12:10:33 +0000",
         "mustContain": "Into the Badlands",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -210,8 +217,7 @@
         "lastMatch": "22 Sep 2018 10:00:38 +0000",
         "mustContain": "Killjoys",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -225,11 +231,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "14 Jun 2018 20:36:47 -0300",
+        "lastMatch": "25 Jun 2019 04:50:32 +0000",
         "mustContain": "Legion",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -246,8 +251,7 @@
         "lastMatch": "27 Nov 2018 16:26:41 +0000",
         "mustContain": "Mr Mercedes",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -264,8 +268,25 @@
         "lastMatch": "",
         "mustContain": "Mr. Robot",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
+        "previouslyMatchedEpisodes": [],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "One Punch Man": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://www.horriblesubs.info/rss.php?res=720",
+            "http://www.horriblesubs.info/rss.php?res=1080"
         ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "25 Jun 2019 17:47:54 +0000",
+        "mustContain": "One Punch Man",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -282,8 +303,7 @@
         "lastMatch": "28 Aug 2018 23:28:50 -0300",
         "mustContain": "Preacher",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -300,8 +320,7 @@
         "lastMatch": "13 Jan 2019 06:25:15 +0000",
         "mustContain": "Ray Donovan",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -318,8 +337,7 @@
         "lastMatch": "",
         "mustContain": "Rick and Morty",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -336,8 +354,7 @@
         "lastMatch": "26 Apr 2019 12:30:54 +0000",
         "mustContain": "Supernatural",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -351,11 +368,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "08 Aug 2018 22:08:27 -0300",
+        "lastMatch": "26 Jun 2019 02:10:33 +0000",
         "mustContain": "The 100",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -369,11 +385,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "26 Apr 2019 03:10:33 +0000",
+        "lastMatch": "17 May 2019 13:01:00 +0000",
         "mustContain": "The Big Bang Theory",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -387,11 +402,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "27 Apr 2019 08:10:31 +0000",
+        "lastMatch": "18 May 2019 13:40:33 +0000",
         "mustContain": "The Blacklist",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -408,8 +422,7 @@
         "lastMatch": "29 Jun 2018 22:46:51 -0300",
         "mustContain": "The Expanse",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -426,8 +439,7 @@
         "lastMatch": "05 Oct 2018 02:25:18 +0000",
         "mustContain": "The Man In the High Castle",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -441,11 +453,27 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "",
+        "lastMatch": "05 Apr 2019 08:00:59 +0000",
         "mustContain": "The Tick",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
+        "previouslyMatchedEpisodes": [],
+        "savePath": "",
+        "smartFilter": false,
+        "useRegex": false
+    },
+    "The Twilight Zone": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "http://showrss.info/user/47708.rss?magnets=true&namespaces=true&name=null&quality=null&re=null"
         ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "05 Jun 2019 10:10:36 +0000",
+        "mustContain": "The Twilight Zone",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -459,11 +487,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "05 Feb 2019 05:08:54 +0000",
+        "lastMatch": "01 Apr 2019 18:20:30 +0000",
         "mustContain": "The Walking Dead",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -480,8 +507,7 @@
         "lastMatch": "22 Mar 2018 01:02:35 -0300",
         "mustContain": "The X Files",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -495,11 +521,10 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "11 Feb 2019 04:40:25 +0000",
+        "lastMatch": "25 Feb 2019 03:30:46 +0000",
         "mustContain": "True Detective",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -516,8 +541,7 @@
         "lastMatch": "31 Jan 2019 03:25:21 +0000",
         "mustContain": "Vikings",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false
@@ -534,8 +558,7 @@
         "lastMatch": "25 Jun 2018 13:02:59 -0300",
         "mustContain": "Westworld",
         "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
+        "previouslyMatchedEpisodes": [],
         "savePath": "",
         "smartFilter": false,
         "useRegex": false

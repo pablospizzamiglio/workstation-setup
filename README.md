@@ -88,7 +88,7 @@ The roles under this directory try to organize tasks and provide flexibility.
 
 ### Common
 Installs packages needed by most home users (strongly opinionated).
-Like `unrar` or `gstreamer` plugins. 
+Like `unrar` or `gstreamer` plugins.
 
 ### Dotfiles
 Place any dotfile playbook under this role.
