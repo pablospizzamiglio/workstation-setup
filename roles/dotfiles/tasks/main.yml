@@ -2,5 +2,6 @@
 
 - include: git.yml
 - include: mpv.yml
+- include: npm.yml
 - include: qbittorrent.yml
 - include: vscode.yml

@@ -1,7 +1,7 @@
 {
-    "local_user": "jonhdoe",
+    "local_user": "johndoe",
     "local_user_name": "John Doe",
-    "local_user_email": "johndoe@mail.com",
+    "local_user_email": "johndoeo@email.com",
     "gsettings": [
         {
             "path": "org.gnome.settings-daemon.plugins.color",

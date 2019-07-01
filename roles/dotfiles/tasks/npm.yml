@@ -1,0 +1,21 @@
+---
+
+- name: Create npm global modules directory
+  file:
+    path: /home/{{ local_user }}/.npm-global
+    state: directory
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""
+    and local_user_name is defined and local_user_name != ""
+    and local_user_email is defined and local_user_email != ""
+
+- name: Configure npmrc
+  template:
+    src: ../templates/npmrc.j2
+    dest: "/home/{{ local_user }}/.npmrc"
+    owner: "{{ local_user }}"
+    group: "{{ local_user }}"
+  when: local_user is defined and local_user != ""
+    and local_user_name is defined and local_user_name != ""
+    and local_user_email is defined and local_user_email != ""
